@@ -1,3 +1,3 @@
 - monitorowanie cen kryptowalut z użyciem API
 - monitorowanie cen walut z użyciem webscrapingu
-- monitorowanie ceny aukcji allegro/aliexpress
+- monitorowanie cen aukcji serwisu alibaba
